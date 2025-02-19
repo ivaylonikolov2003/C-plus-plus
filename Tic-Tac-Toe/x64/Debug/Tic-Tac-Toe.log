@@ -1,0 +1,5 @@
+﻿  Tic-Tac-Toe.cpp
+D:\Programming\Course\Tic-Tac-Toe\Tic-Tac-Toe.cpp(75,14): warning C4804: '>': unsafe use of type 'bool' in operation
+D:\Programming\Course\Tic-Tac-Toe\Tic-Tac-Toe.cpp(75,29): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Programming\Course\Tic-Tac-Toe\Tic-Tac-Toe.cpp(79,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tic-Tac-Toe.vcxproj -> D:\Programming\Course\Course\x64\Debug\Tic-Tac-Toe.exe
